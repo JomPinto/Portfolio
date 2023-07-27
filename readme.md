@@ -18,11 +18,6 @@
 - Statistics
 - Artificial Intelligence
 
-## Projects
-
-- [Project 1](https://public.tableau.com/views/Airbnb_Seattle_2016/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link): A brief description of your first project.
-- [Project 2](link_to_project_2): A brief description of your second project.
-- [Project 3](link_to_project_3): A brief description of your third project.
 
 ## Skills
 
