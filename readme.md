@@ -1,4 +1,4 @@
-# Projcts
+# Projects
 
 ## Python
 ### Data Exploration on Diabetes
