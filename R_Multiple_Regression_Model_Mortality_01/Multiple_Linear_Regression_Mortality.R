@@ -297,7 +297,7 @@ print("Durbin-Watson Test:")
 print(dw_test_result)
 
 ## Perform Lavene's test for homoscedasticity
-levene_test_result <- leveneTest(residuals(lm_model), your_data$variable)
+levene_test_result <- leveneTest(residuals(selected_forward_model), mortalityrate$island)
 
 # Print the test result
 print("Lavene's Test for Homoscedasticity:")
